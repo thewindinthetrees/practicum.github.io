@@ -1,2 +1,2 @@
 # practicum.github.io
-Adobe 198 Prwcticum Summer 2022
+Adobe 198 Practicum Summer 2022
